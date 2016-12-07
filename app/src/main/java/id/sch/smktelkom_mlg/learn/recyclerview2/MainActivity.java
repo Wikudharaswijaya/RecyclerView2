@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity
         recyclerView.setLayoutManager(layoutManager);
         mAdapter = new HotelAdapter(mList);
         recyclerView.setAdapter(mAdapter);
-
         fillData();
     }
 
