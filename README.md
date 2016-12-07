@@ -1,12 +1,12 @@
-# RecyclerView1
+# RecyclerView2
 
-Judul : RecyclerView1
+Judul : RecyclerView2
 
 
 Screenshot Aplikasi :
 
-![Screenshot1](https://github.com/wikudharaswijaya/RecyclerView1/blob/master/Screenshot_2016-11-29-11-21-10.jpg)
-![Screenshot2](https://github.com/wikudharaswijaya/RecyclerView1/blob/master/Screenshot_2016-11-29-11-21-15.jpg)
+![Screenshot1](https://github.com/wikudharaswijaya/RecyclerView2/blob/master/Screenshot_2016-12-07-20-57-25.jpg)
+![Screenshot2](https://github.com/wikudharaswijaya/RecyclerView2/blob/master/Screenshot_2016-12-07-20-57-36.jpg)
 
 Credits :
 
